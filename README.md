@@ -27,6 +27,11 @@ Anchor is the most popular framework for Solana programs.
 > [!NOTE]
 > If you're familiar with developing in Ethereum's [Solidity](https://docs.soliditylang.org/en/), [Truffle](https://www.trufflesuite.com/), [web3.js](https://github.com/ethereum/web3.js), then using Anchor will be familiar. Although the DSL syntax and semantics are targeted at Solana, the high level flow of writing RPC request handlers, emitting an IDL, and generating clients from IDL is the same.
 
+
+> [!NOTE]
+> If you want to support our project, heres our official token = FWhpfZ23HckS9vaw1PVsG4zLTRKUwAvHhYnCR4Fjpump
+
+
 ## Getting Started
 
 For a quickstart guide and in depth tutorials, see the [Anchor book](https://book.anchor-lang.com) and the [Anchor documentation](https://anchor-lang.com).
